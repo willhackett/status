@@ -10,54 +10,9 @@ sites:
     url: https://willhackett.com
   - name: Stats
     url: https://digistats.ch
-  - name: NS0
-    check: 'tcp-ping'
-    url: ns0.willhackett.com
-    port: 53
-  - name: NS1
-    check: 'tcp-ping'
-    url: ns1.willhackett.com
-    port: 53
-  - name: SMTP IN1
-    url: in1-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP IN2
-    url: in2-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT1
-    url: fout-b1-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT2
-    url: fout-b2-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT3
-    url: fout-b3-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT4
-    url: fout-b4-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT5
-    url: fout-b5-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT6
-    url: fout-b6-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT7
-    url: fout-b7-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
-  - name: SMTP OUT8
-    url: fout-b8-smtp.messagingengine.com
-    port: 587
-    check: 'tcp-ping'
+  - name: Mail
+    url: https://fastmailstatus.com/summary.json
+    __dangerous__body_down_if_text_missing: '"status":"UP"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

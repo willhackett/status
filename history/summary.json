@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 687,
-    "timeWeek": 687,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "time": 543,
+    "timeDay": 267,
+    "timeWeek": 543,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1183,
-    "timeDay": 1183,
-    "timeWeek": 1183,
-    "timeMonth": 1183,
-    "timeYear": 1183,
+    "time": 1110,
+    "timeDay": 1205,
+    "timeWeek": 1110,
+    "timeMonth": 1110,
+    "timeYear": 1110,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 250,
+    "timeDay": 181,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.bunny.net.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.25%",
-    "time": 374,
-    "timeDay": 374,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "uptime": "98.23%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
+    "time": 355,
+    "timeDay": 329,
+    "timeWeek": 355,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-02-26": 36
+      "2025-02-26": 26
     }
   }
 ]

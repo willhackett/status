@@ -13,10 +13,11 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
+
 name: Uptime CI
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: "*/5 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
@@ -33,7 +34,7 @@ jobs:
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.38.0
         with:
-          command: 'update'
+          command: "update"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}

@@ -13,7 +13,7 @@ sites:
     url: https://status.bunny.net/index.json
     __dangerous__body_down_if_text_missing: 'All Systems Operational'
   - name: DNS
-    url: https://dns.google/query?name=willhackett.com&rr_type=MX&ecs=
+    url: https://dns.google/resolve?name=willhackett.com&type=MX
     __dangerous__body_down_if_text_missing: 'in1-smtp.messagingengine.com'
 
 status-website:

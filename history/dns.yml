@@ -1,7 +1,7 @@
-url: https://dns.google/query?name=willhackett.com&rr_type=MX&ecs=
-status: down
+url: https://dns.google/resolve?name=willhackett.com&type=MX
+status: up
 code: 200
-responseTime: 254
-lastUpdated: 2025-03-08T23:06:45.538Z
+responseTime: 55
+lastUpdated: 2025-03-08T23:13:02.816Z
 startTime: 2025-03-08T20:13:03.377Z
 generator: Upptime <https://github.com/upptime/upptime>

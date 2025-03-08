@@ -60,17 +60,17 @@
     "url": "https://status.bunny.net/index.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.bunny.net.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.01%",
-    "time": 305,
-    "timeDay": 266,
-    "timeWeek": 284,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "time": 303,
+    "timeDay": 259,
+    "timeWeek": 281,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2025-03-08": 18,
       "2025-03-06": 27,
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.google.ico",
     "slug": "dns",
     "status": "down",
-    "uptime": "2.68%",
-    "uptimeDay": "2.68%",
-    "uptimeWeek": "2.68%",
-    "uptimeMonth": "2.68%",
-    "uptimeYear": "2.68%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 286,
     "timeDay": 286,
     "timeWeek": 286,
     "timeMonth": 286,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-03-08": 0
+      "2025-03-08": 30
     }
   }
 ]

@@ -24,11 +24,11 @@
     "url": "https://digistats.ch",
     "icon": "https://icons.duckduckgo.com/ip3/digistats.ch.ico",
     "slug": "stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 1124,
     "timeDay": 1049,
@@ -36,6 +36,7 @@
     "timeMonth": 1228,
     "timeYear": 1124,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2025-04-14": 20,
       "2025-03-16": 16,
       "2025-03-09": 19

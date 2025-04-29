@@ -1,7 +1,7 @@
 url: https://fastmailstatus.com/summary.json
-status: down
-code: 502
-responseTime: 184
-lastUpdated: 2025-04-29T17:19:56.730Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2025-04-29T17:37:34.513Z
 startTime: 2025-02-26T01:03:12.417Z
 generator: Upptime <https://github.com/upptime/upptime>

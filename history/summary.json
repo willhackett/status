@@ -4,7 +4,7 @@
     "url": "https://mta-sts.willhackett.com/.well-known/mta-sts.txt",
     "icon": "https://icons.duckduckgo.com/ip3/mta-sts.willhackett.com.ico",
     "slug": "mta-sts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 371,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2025-05-12": 0,
       "2025-03-08": 213
     }
   },
@@ -73,13 +74,13 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "97.62%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "92.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.71%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "97.62%",
     "time": 414,
-    "timeDay": 257,
-    "timeWeek": 439,
+    "timeDay": 215,
+    "timeWeek": 446,
     "timeMonth": 359,
     "timeYear": 414,
     "dailyMinutesDown": {

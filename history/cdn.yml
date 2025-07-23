@@ -1,7 +1,7 @@
 url: https://status.bunny.net/index.json
-status: up
+status: down
 code: 200
-responseTime: 367
-lastUpdated: 2025-07-23T13:01:04.814Z
+responseTime: 1363
+lastUpdated: 2025-07-23T13:46:00.781Z
 startTime: 2025-02-26T01:03:13.119Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
-url: https://mta-sts.willhackett.com/.well-known/mta-sts.txt
+url: https://mta-sts.willhackett.uk/.well-known/mta-sts.txt
 status: up
 code: 200
-responseTime: 331
-lastUpdated: 2025-11-18T23:01:00.745Z
+responseTime: 121
+lastUpdated: 2025-11-19T17:03:47.036Z
 startTime: 2025-02-26T01:03:08.981Z
 generator: Upptime <https://github.com/upptime/upptime>

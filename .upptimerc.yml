@@ -3,17 +3,17 @@ repo: status # The name of this repository
 
 sites:
   - name: MTA STS
-    url: https://mta-sts.willhackett.com/.well-known/mta-sts.txt
+    url: https://mta-sts.willhackett.uk/.well-known/mta-sts.txt
   - name: Stats
     url: https://digistats.ch
   - name: Mail
     url: https://fastmailstatus.com/summary.json
     __dangerous__body_down_if_text_missing: '"status":"UP"'
   - name: CDN
-    url: https://status.bunny.net/index.json
-    __dangerous__body_down_if_text_missing: 'All Systems Operational'
+    url: https://willhackett.uk/
+    __dangerous__body_down_if_text_missing: 'Will Hackett'
   - name: DNS
-    url: https://dns.google/resolve?name=willhackett.com&type=MX
+    url: https://dns.google/resolve?name=willhackett.uk&type=MX
     __dangerous__body_down_if_text_missing: 'in1-smtp.messagingengine.com'
 
 status-website:
